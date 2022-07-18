@@ -1,6 +1,6 @@
-### Hi there 👋
+### 有些人，走着走着就不见了 
 
-[主页博客❤️](https://github.com/platojobs/agenda)
+[主页博客❤️Actions speak louder than words](https://github.com/platojobs/agenda)
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&color=050001&lines=Actions+speak+louder+than+words.)](https://git.io/typing-svg)
