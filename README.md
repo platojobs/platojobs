@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [Daily record use](https://github.com/PlatoJobs/SFLOG/issues)
 `Actions` speak louder than `words`.
+
+
+![platojobs' Github Stats](https://github-readme-stats.vercel.app/api?username=platojobs&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=DC143C&icon_color=007ec6)
