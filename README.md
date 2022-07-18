@@ -6,7 +6,7 @@
 -----
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=platojobs&theme=minimal" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=platojobs&theme=default" />
 </div>
 
 
