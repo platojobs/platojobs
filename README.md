@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+-----
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=platojobs&theme=minimal" />
+</div>
+
+
+-----
+
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=platojobs" />
 </div>
