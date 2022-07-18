@@ -1,4 +1,4 @@
-### 有些人，走着走着就不见了 
+#### 其实了解一个人并不代表什么，人是会变的，今天他喜欢凤梨，明天他可能喜欢别的 
 
 [主页博客❤️Actions speak louder than words](https://github.com/platojobs/agenda)
 ---
