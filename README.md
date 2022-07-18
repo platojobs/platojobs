@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [Daily record use](https://github.com/PlatoJobs/SFLOG/issues)
+-----
 `Actions` speak louder than `words`.
 
 
