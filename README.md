@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&color=050001&lines=Actions+speak+louder+than+words.)](https://git.io/typing-svg)
+
+-----
 
 <div align="center"><img src="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake.svg" ></div>
 
