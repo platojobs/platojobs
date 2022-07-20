@@ -26,7 +26,12 @@
 </div>
 
 ----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=platojobs&hide=contribs,prs&show_icons=true&theme=blueberry" />
+</a>
+<a href="https://github.com/platojobs/agenda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=agenda&show_owner=platojobs" />
+</a>
 
-![platojobs' Github Stats](https://github-readme-stats.vercel.app/api?username=platojobs&hide=contribs,prs&show_icons=true&theme=blueberry)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=agenda&show_owner=platojobs)](https://github.com/anuraghazra/github-readme-stats)
+(https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platojobs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
