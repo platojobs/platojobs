@@ -28,3 +28,4 @@
 ----
 
 ![platojobs' Github Stats](https://github-readme-stats.vercel.app/api?username=platojobs&hide=contribs,prs&show_icons=true&theme=blueberry)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=agenda)](https://github.com/anuraghazra/github-readme-stats)
