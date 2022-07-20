@@ -27,4 +27,4 @@
 
 ----
 
-![platojobs' Github Stats](https://github-readme-stats.vercel.app/api?username=platojobs&hide=contribs,prs&show_icons=true&theme=swift&bg_color=0d1116&title_color=ce09ec&text_color=DC143C&icon_color=007ec6)
+![platojobs' Github Stats](https://github-readme-stats.vercel.app/api?username=platojobs&hide=contribs,prs&show_icons=true&theme=merko&bg_color=0d1116&title_color=ce09ec&text_color=DC143C&icon_color=007ec6)
