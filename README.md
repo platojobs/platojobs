@@ -5,8 +5,7 @@
 <p>&emsp;&emsp;一个人总要走陌生的路，看陌生的风景，听陌生的歌。。。。</p>
  
  
- 
-[------------------欢迎访问主页博客---------点击进入---------❤️](https://github.com/platojobs/agenda)
+[欢迎访问主页博客❤️](https://github.com/platojobs/agenda)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&color=050001&lines=Actions+speak+louder+than+words.)](https://git.io/typing-svg)
 
 <!-- 个人资料徽标 -->
