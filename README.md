@@ -4,7 +4,8 @@
  每个人都会坚持自己的信念，在别人来看是浪费时间，我却觉得很重要
  一个人总要走陌生的路，看陌生的风景，听陌生的歌。
 ```
-[主页博客❤️Actions speak louder than words](https://github.com/platojobs/agenda)
+[主页博客❤️](https://github.com/platojobs/agenda)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&color=050001&lines=Actions+speak+louder+than+words.)](https://git.io/typing-svg)
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -18,12 +19,6 @@
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=platojobs" alt="访客统计" /></div>
   
----
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&color=050001&lines=Actions+speak+louder+than+words.)](https://git.io/typing-svg)
-
------
-
 <div align="center"><img src="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake.svg" ></div>
 
 -----
