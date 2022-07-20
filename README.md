@@ -29,3 +29,4 @@
 
 ![platojobs' Github Stats](https://github-readme-stats.vercel.app/api?username=platojobs&hide=contribs,prs&show_icons=true&theme=blueberry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=agenda&show_owner=platojobs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platojobs)](https://github.com/anuraghazra/github-readme-stats)
