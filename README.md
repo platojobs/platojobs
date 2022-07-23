@@ -8,7 +8,7 @@
     <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu.png" />
 </div>
 
-[欢迎访问主页博客❤️](https://github.com/platojobs/agenda)
+[欢迎访问主页博客❤️](https://github.com/platojobs/SFLOG)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&color=050001&lines=Actions+speak+louder+than+words.)](https://git.io/typing-svg)
 
 <!-- 个人资料徽标 -->
@@ -42,6 +42,7 @@
 
 ![platojobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=platojobs&show_icons=true&theme=blueberry&hide=contribs,prs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=agenda&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=SFLOG&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platojobs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
