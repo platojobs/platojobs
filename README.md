@@ -23,7 +23,17 @@
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=platojobs" alt="访客统计" /></div>
   
-<div align="center"><img src="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake.svg" >
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  srcset="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake.svg" />
+  
+</picture>
+
+
+
+</div>
 
 -----
 
