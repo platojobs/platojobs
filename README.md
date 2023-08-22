@@ -29,7 +29,7 @@
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
-  <img  src="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake-dark.svg" />
+  <img  src="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake.svg" />
 
 </div>
 
