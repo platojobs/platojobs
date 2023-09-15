@@ -40,7 +40,7 @@
 -----
 
 <div align="center">
-    <img src="https://selftaught.blog/wp-content/uploads/2020/04/computer-2982270_1920.jpg" />
+   <!-- <img src="https://selftaught.blog/wp-content/uploads/2020/04/computer-2982270_1920.jpg" /> -->
 </div>
 
 
