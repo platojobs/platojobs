@@ -47,7 +47,7 @@
 -----
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=platojobs" />
+     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=platojobs" />
 </div>
 
 ----
@@ -58,5 +58,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platojobs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-    <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu2.png" />
+   <!-- <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu2.png" /> -->
 </div>
