@@ -5,7 +5,7 @@
 <p>&emsp;&emsp;一个人总要走陌生的路，看陌生的风景，听陌生的歌。。。。</p>
 
 <div align="center">
-    <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu.png" />
+    <!-- <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu.png" /> -->
 </div>
 
 [欢迎访问主页博客❤️](https://github.com/platojobs/SFLOG)
