@@ -42,7 +42,9 @@
 <div align="center">
    <!-- <img src="https://selftaught.blog/wp-content/uploads/2020/04/computer-2982270_1920.jpg" /> -->
 </div>
+
 ------------
+
 
 <div align="center">
      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=platojobs" />
