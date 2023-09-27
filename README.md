@@ -47,6 +47,7 @@
 <div align="center">
      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=platojobs" />
 </div>
+-----
 
 ![platojobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=platojobs&show_icons=true&theme=blueberry&hide=contribs,prs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=agenda&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
