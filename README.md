@@ -55,7 +55,7 @@
 ![platojobs' GitHub stats](https://github-readme-stats.vercel.app/api?username=platojobs&show_icons=true&theme=blueberry&hide=contribs,prs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=agenda&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=SFLOG&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platojobs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platojobs&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
    <!-- <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu2.png" /> -->
