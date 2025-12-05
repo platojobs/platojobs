@@ -1,5 +1,5 @@
 
- <p>✍️&nbsp;&nbsp;其实了解一个人并不代表什么，人是会变的，今天他喜欢凤梨，明天他可能喜欢别的!</p> 
+ <p>✍️&nbsp;&nbsp;Software engineer，c/c++/python/shell/oc/swift/flutter/kotlin/golang and so on. Team developer，Help others, be yourself. Skater Boy!</p> 
 <p>&emsp;&emsp;我不知道该怎么和生活中无法失去的人说再见，所以我没有说再见就离开了.</p>
 <p>&emsp;&emsp;每个人都会坚持自己的信念，在别人来看是浪费时间，我却觉得很重要。</p>
 <p>&emsp;&emsp;一个人总要走陌生的路，看陌生的风景，听陌生的歌。。。。</p>
