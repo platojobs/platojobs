@@ -1,8 +1,8 @@
 
  <p>✍️&nbsp;&nbsp;Software engineer，c/c++/python/shell/oc/swift/flutter/kotlin/golang and so on. Team developer，Help others, be yourself. Skater Boy!</p> 
-<p>&emsp;&emsp;我不知道该怎么和生活中无法失去的人说再见，所以我没有说再见就离开了.</p>
-<p>&emsp;&emsp;每个人都会坚持自己的信念，在别人来看是浪费时间，我却觉得很重要。</p>
-<p>&emsp;&emsp;一个人总要走陌生的路，看陌生的风景，听陌生的歌。。。。</p>
+<p>&emsp;&emsp;I didn't know how to say goodbye to people I couldn't live without, so I left without saying goodbye.</p>
+<p>&emsp;&emsp;Everyone holds onto their own beliefs, which others may see as a waste of time, but I find them very important.</p>
+<p>&emsp;&emsp;Everyone must walk unfamiliar roads, see unfamiliar scenery, and hear unfamiliar songs.</p>
 
 <div align="center">
     <!-- <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu.png" /> -->
