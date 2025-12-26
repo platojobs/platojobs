@@ -1,3 +1,41 @@
+<!-- 头部横幅 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There%20👋&fontSize=60&animation=fadeIn&fontAlignY=35" />
+  
+  <!-- 动态文字 -->
+  <h2 align="center">🚀 Full-Stack Developer | Flutter Expert</h2>
+  
+  <!-- 技能标签 -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  </div>
+</div>
+
+<!-- 关于我 -->
+## 📖 About Me
+```dart
+class Developer {
+  final String name = 'Your Name';
+  final String role = 'Flutter & Mobile Developer';
+  final List<String> skills = [
+    'Cross-Platform Development',
+    'Clean Architecture',
+    'State Management',
+    'CI/CD Pipelines',
+    'Performance Optimization'
+  ];
+  
+  void buildAmazingApps() {
+    print('🚀 Building the future with Flutter!');
+  }
+}
+
+
 
  <p>✍️&nbsp;&nbsp;Software engineer，c/c++/python/shell/oc/swift/flutter/kotlin/golang and so on. Team developer，Help others, be yourself. Skater Boy!</p> 
 <p>&emsp;&emsp;I didn't know how to say goodbye to people I couldn't live without, so I left without saying goodbye.</p>
