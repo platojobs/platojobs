@@ -1,39 +1,66 @@
 <!-- 头部横幅 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There%20👋&fontSize=60&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Polyglot%20Developer%20🛠️&fontSize=60&animation=fadeIn&fontAlignY=35" />
   
   <!-- 动态文字 -->
-  <h2 align="center">🚀 Full-Stack Developer | Flutter Expert</h2>
+  <h2 align="center">🚀 多语言全栈开发者 | 从系统底层到移动应用</h2>
   
-  <!-- 技能标签 -->
+  <!-- 多语言技能标签 -->
   <div align="center">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Objective--C-3A95E3?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   </div>
 </div>
 
 <!-- 关于我 -->
 ## 📖 About Me
-```dart
-class Developer {
-  final String name = 'Your Name';
-  final String role = 'Flutter & Mobile Developer';
-  final List<String> skills = [
-    'Cross-Platform Development',
-    'Clean Architecture',
-    'State Management',
-    'CI/CD Pipelines',
-    'Performance Optimization'
-  ];
-  
-  void buildAmazingApps() {
-    print('🚀 Building the future with Flutter!');
-  }
-}
+```c
+// 多语言开发者配置文件
+typedef struct PolyglotDeveloper {
+    char name[] = "Your Name";
+    char title[] = "全栈多语言开发者";
+    
+    // 语言技能树
+    struct {
+        // 系统层
+        int c_expertise = 95;      // 系统编程、嵌入式
+        int cpp_expertise = 90;    // 高性能计算、游戏引擎
+        int go_expertise = 85;     // 云原生、微服务
+        int shell_expertise = 80;  // DevOps、自动化脚本
+        
+        // 应用层
+        int python_expertise = 90; // 数据分析、机器学习
+        int flutter_expertise = 95;// 跨平台移动开发
+        int kotlin_expertise = 85; // Android原生开发
+        int swift_expertise = 80;  // iOS原生开发
+        int objc_expertise = 75;   // 传统iOS维护
+    } skills;
+    
+    // 项目经验
+    char* projects[] = {
+        "C/C++: 高性能引擎、嵌入式系统",
+        "Python: 数据分析平台、自动化工具",
+        "Flutter: 企业级跨平台应用",
+        "Go: 微服务架构、云原生应用",
+        "Kotlin/Swift: 原生移动应用"
+    };
+    
+    void (*build_solution)(char* problem) = &create_cross_stack_solution;
+} Developer;
+
+Developer me = {
+    .build_solution = [](char* problem) {
+        printf("🔧 选择最适合的工具解决: %s\n", problem);
+        // 根据问题选择: C(性能关键) | Python(快速原型) | Go(并发服务) | Flutter(跨平台UI)
+    }
+};
 ```
 
  <p>✍️&nbsp;&nbsp;Software engineer，c/c++/python/shell/oc/swift/flutter/kotlin/golang and so on. Team developer，Help others, be yourself. Skater Boy!</p> 
