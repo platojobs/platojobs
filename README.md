@@ -24,26 +24,10 @@
 </div>
   
 <div align="center">
-                     <!--<img  src="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake.svg" > -->
-
- <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platojobs/platojobs/main/assets/github-contribution-grid-snake-dark.svg" />
-</picture>
--->
-
-</div>
-
-
-
-<div align="center">
    <!-- <img src="https://selftaught.blog/wp-content/uploads/2020/04/computer-2982270_1920.jpg" /> -->
 </div>
 
 ------------
-
 
 <div align="center">
      <img  src="https://github-readme-streak-stats.herokuapp.com/?user=platojobs" />
