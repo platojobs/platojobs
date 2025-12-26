@@ -51,8 +51,9 @@
 
 ------------
 
-[![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=platojobs&show_icons=true&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 [![PlatoJobs' Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![PlatoJobs' WakaTime](https://github-readme-stats-fast.vercel.app/wakatime/?username=platojobs)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <div align="center">
    <!-- <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu2.png" /> -->
