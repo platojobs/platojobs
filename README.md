@@ -51,10 +51,8 @@
 
 ------------
 
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=platojobs)](https://github.com/pranesh-2005/github-readme-stats-fast)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=agenda&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=platojobs&repo=SFLOG&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=platojobs&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![PlatoJobs' Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <div align="center">
    <!-- <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu2.png" /> -->
