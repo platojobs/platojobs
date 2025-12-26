@@ -51,7 +51,7 @@
 
 ------------
 <div align="center">
- [![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=platojobs&show_icons=true&bg_color=00000000)](https://github.com/platojobs)
+ ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=platojobs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 </div>
 
 [![PlatoJobs' Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs&&langs_count=10&layout=compact)](https://github.com/platojobs)
