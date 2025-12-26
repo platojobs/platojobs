@@ -50,10 +50,8 @@
 </div>
 
 ------------
-<div align="center">
- ![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=platojobs&show_icons=true&theme=transparent)
-</div>
 
+![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=platojobs&show_icons=true&theme=transparent)
 [![PlatoJobs' Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs&&langs_count=10&layout=compact)](https://github.com/platojobs)
 [![PlatoJobs' WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=platojobs&layout=compact)](https://github.com/platojobs)
 
