@@ -51,7 +51,7 @@
 
 ------------
 
-[![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=platojobs&show_icons=true&theme=transparent)](https://github.com/platojobs)
+[![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=platojobs&show_icons=true&bg_color=00000000)](https://github.com/platojobs)
 [![PlatoJobs' Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs)](https://github.com/platojobs)
 [![PlatoJobs' WakaTime](https://github-readme-stats-fast.vercel.app/wakatime/?username=platojobs)](https://github.com/platojobs)
 
