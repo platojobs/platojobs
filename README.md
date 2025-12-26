@@ -53,6 +53,7 @@
 
 [![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api/?username=platojobs&show_icons=true&bg_color=00000000&hide_border=false&)](https://github.com/platojobs)
 [![PlatoJobs' Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs&&langs_count=10&layout=compact)](https://github.com/platojobs)
+[![PlatoJobs' WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=platojobs&layout=compact)](https://github.com/platojobs)
 
 <div align="center">
    <!-- <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu2.png" /> -->
