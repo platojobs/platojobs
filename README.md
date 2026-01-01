@@ -97,7 +97,7 @@
 <a href="https://youtube.com/@PlatoJobs" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://blog.csdn.net/your_id" target="_blank">
+<a href="https://blog.csdn.net/sinat_35487665" target="_blank">
   <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
 </a>
 <a href="https://space.bilibili.com/your_id" target="_blank">
