@@ -53,6 +53,13 @@
 * **Tooling:** Proficient in `Git` (Tower workflow), `Postman`, `Charles`, and `Paw` for API debugging.
 * **Modern Workflow:** Leveraging **AI-assisted tools** for rapid feature iteration and CI/CD pipelines for App Store/TestFlight distribution.
 
+### 🔧 Deep Tech Stack
+| Domain | Technologies |
+| :--- | :--- |
+| **System & Kernel** | `Runtime`, `RunLoop`, `Method Swizzling`, `Mach-O`, `Assembly (ARM64)` |
+| **Performance** | `Instruments`, `Memory Leak Sanitizer`, `Time Profiler`, `Startup Optimization` |
+| **Multimedia** | `FFmpeg`, `RTMP/HLS`, `Metal/GPUImage`, `ijkPlayer`, `AVFoundation` |
+| **IoT / Connectivity** | `BLE Mesh`, `Custom Bluetooth Protocols`, `WebSocket`, `TCP/UDP` |
 
 ### 📊 Professional Milestones
 
