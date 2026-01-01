@@ -21,47 +21,62 @@
 
 <!-- 关于我 -->
 ## 📖 About Me
-```c
-// 多语言开发者配置文件
-typedef struct PolyglotDeveloper {
-    char name[] = "Your Name";
-    char title[] = "全栈多语言开发者";
-    
-    // 语言技能树
-    struct {
-        // 系统层
-        int c_expertise = 95;      // 系统编程、嵌入式
-        int cpp_expertise = 90;    // 高性能计算、游戏引擎
-        int go_expertise = 85;     // 云原生、微服务
-        int shell_expertise = 80;  // DevOps、自动化脚本
-        
-        // 应用层
-        int python_expertise = 90; // 数据分析、机器学习
-        int flutter_expertise = 95;// 跨平台移动开发
-        int kotlin_expertise = 85; // Android原生开发
-        int swift_expertise = 80;  // iOS原生开发
-        int objc_expertise = 75;   // 传统iOS维护
-    } skills;
-    
-    // 项目经验
-    char* projects[] = {
-        "C/C++: 高性能引擎、嵌入式系统",
-        "Python: 数据分析平台、自动化工具",
-        "Flutter: 企业级跨平台应用",
-        "Go: 微服务架构、云原生应用",
-        "Kotlin/Swift: 原生移动应用"
-    };
-    
-    void (*build_solution)(char* problem) = &create_cross_stack_solution;
-} Developer;
+🚀 Senior iOS & Cross-Platform Developer
+一位深耕移动端开发 10 年+ 的技术专家，擅长 iOS 原生（Swift/Obj-C） 与 Flutter 跨平台 开发。具备高并发直播、复杂 IoT 智能家居及大规模组件化架构实战经验。
 
-Developer me = {
-    .build_solution = [](char* problem) {
-        printf("🔧 选择最适合的工具解决: %s\n", problem);
-        // 根据问题选择: C(性能关键) | Python(快速原型) | Go(并发服务) | Flutter(跨平台UI)
-    }
-};
-```
+🛠 技术工具箱 (Technical Stack)
+📱 Mobile Development
+Languages: Swift, Objective-C, Dart (Flutter), C, JavaScript, Python
+
+UI Frameworks: SwiftUI, AutoLayout (Masonry/SnapKit/SDAutoLayout), UIKit (Xib/Storyboard), Custom Widgets (Flutter)
+
+State Management: Provider, Bloc, GetX, RxSwift, Combine
+
+🏗 Architecture & Engineering
+Architecture: 组件化 (CTMediator)、路由管理、MVVM、Design Patterns、SDK 封装、中台化建设
+
+Performance: Instruments (Time Profiler/Leaks/Zombies), LLDB, View Debugging, 汇编调试, 启动优化, 内存管理 (Runtime/RunLoop)
+
+Tools: Git (Tower Workflow), CocoaPods (Public/Private Repo), CI/CD, Postman, Charles/Proxyman
+
+📹 Media & Communication
+Live/Video: FFmpeg, ijkPlayer, GPUImage, LFLiveKit, AVFoundation, RTSP Streaming
+
+Network: TCP/UDP, HTTP/HTTPS, WebSocket, Alamofire, Moya, Dio, HappyDNS (Anti-Hijack)
+
+IM & Social: 环信/融云/网易云信 (IM SDK), OAuth 2.0 (SSO), Apple IAP (StoreKit)
+
+🏠 IoT & Hardwares
+Protocols: BLE 4.0/5.0 (CoreBluetooth / FlutterBluePlus), Bluetooth Mesh, Custom Hardware Protocols
+
+Integration: 智能家居全链路联调, 硬件指令解析, 嵌入式协同开发
+
+📈 核心能力概览 (Core Competencies)
+💎 专业亮点
+高并发社交/直播经验： 曾主导日活 10万+ 级别的社交直播应用架构，解决过极致的音视频延迟与并发瓶颈。
+
+跨平台深度实践： 具备 3年+ Flutter 实战经验，实现过完整的 Flutter 混合开发架构及从 0 到 1 的 CRM/POS 系统。
+
+IoT 领域深耕： 精通蓝牙 Mesh 协议，有丰富的智能灯具、开关、门锁等硬件交互开发经验。
+
+底层探索精神： 熟练运用 Runtime、Method Swizzling、汇编本质探索 等技术进行黑盒调试及功能扩展。
+
+支付与安全： 深度掌握 Apple IAP 内购 补单机制及服务器校验流程，确保交易安全。
+
+📊 开源贡献与生产力 (Open Source & Productivity)
+AI-Driven Development: 熟练使用 AI 辅助工具（Cursor, Copilot）进行逻辑加速与代码重构。
+
+Private/Public Pods: 维护多个企业级私有库，实现业务组件的高度解耦。
+
+Automation: 熟悉多渠道分发（TestFlight, Enterprise App Store）及马甲包制作流程。
+
+💬 联系我 (Get in Touch)
+GitHub: [Your GitHub Profile Link]
+
+Focus: iOS Architecture, Flutter Performance, High-Performance Networking
+
+"追求代码的极致优雅与运行的高效稳定。"
+
 
  <p>✍️&nbsp;&nbsp;Software engineer，c/c++/python/shell/oc/swift/flutter/kotlin/golang and so on. Team developer，Help others, be yourself. Skater Boy!</p> 
 <p>&emsp;&emsp;I didn't know how to say goodbye to people I couldn't live without, so I left without saying goodbye.</p>
