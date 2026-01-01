@@ -1,6 +1,6 @@
 <!-- 头部横幅 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Polyglot%20Developer%20🛠️&fontSize=60&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Polyglot%20Developer%20🛠️&fontSize=60&animation=fadeIn&fontAlignY=35" />
   
   <!-- 动态文字 -->
   <h2 align="center">🚀 Full-Stack Polyglot | System-Level Depth & Mobile-First Excellence</h2>
@@ -89,16 +89,6 @@
 ---
 <p align="right"><i>"Driven by logic, inspired by design."</i></p>
 
-
- <p>✍️&nbsp;&nbsp;Software engineer，c/c++/python/shell/oc/swift/flutter/kotlin/golang and so on. Team developer，Help others, be yourself. Skater Boy!</p> 
-<p>&emsp;&emsp;I didn't know how to say goodbye to people I couldn't live without, so I left without saying goodbye.</p>
-<p>&emsp;&emsp;Everyone holds onto their own beliefs, which others may see as a waste of time, but I find them very important.</p>
-<p>&emsp;&emsp;Everyone must walk unfamiliar roads, see unfamiliar scenery, and hear unfamiliar songs.</p>
-
-<div align="center">
-    <!-- <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu.png" /> -->
-</div>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&color=050001&lines=Actions+speak+louder+than+words.)](https://git.io/typing-svg)
 
 <!-- 个人资料徽标 -->
@@ -113,22 +103,7 @@
 <!-- 访客数统计徽标 -->
 <!--  <img src="https://visitor-badge.glitch.me/badge?page_id=platojobs" alt="访客统计" />-->
 </div>
-  
 <div align="center">
    <!-- <img src="https://selftaught.blog/wp-content/uploads/2020/04/computer-2982270_1920.jpg" /> -->
 </div>
-
-------------
-
-<div align="center">
-     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=platojobs" />
-</div>
-
-------------
-
-![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=platojobs&show_icons=true&theme=transparent)
-[![PlatoJobs' Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs&&langs_count=10&layout=compact)](https://github.com/platojobs)
-
-<div align="center">
-   <!-- <img src="https://github.com/platojobs/platojobs/blob/main/assets/tu2.png" /> -->
-</div>
+-------
