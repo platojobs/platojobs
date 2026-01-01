@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Polyglot%20Developer%20🛠️&fontSize=60&animation=fadeIn&fontAlignY=35" />
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A36C&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Development+Pioneer;IoT+Specialist:+BLE+Mesh+%26+Smart+Ecosystems;Multimedia+Architect:+FFmpeg+%26+Low-latency+Live;Performance+Master:+LLDB%2C+Assembly+%26+Instruments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2400C&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Development+Pioneer;IoT+Specialist:+BLE+Mesh+%26+Smart+Ecosystems;Multimedia+Architect:+FFmpeg+%26+Low-latency+Live;Performance+Master:+LLDB%2C+Assembly+%26+Instruments" alt="Typing SVG" />
 </p>
   <!-- 动态文字 -->
   <h2 align="center">🚀 Full-Stack Polyglot | System-Level Depth & Mobile-First Excellence</h2>
