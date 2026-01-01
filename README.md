@@ -4,7 +4,7 @@
   <!-- 动态文字 -->
   <h2 align="center">🚀 Full-Stack Polyglot | System-Level Depth & Mobile-First Excellence</h2>
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Development+Pioneer;IoT+Specialist:+BLE+Mesh+%26+Smart+Ecosystems;Multimedia+Architect:+FFmpeg+%26+Low-latency+Live;Performance+Master:+LLDB%2C+Assembly+%26+Instruments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=#630330&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Development+Pioneer;IoT+Specialist:+BLE+Mesh+%26+Smart+Ecosystems;Multimedia+Architect:+FFmpeg+%26+Low-latency+Live;Performance+Master:+LLDB%2C+Assembly+%26+Instruments" alt="Typing SVG" />
 </p>
   <!-- 多语言技能标签 -->
   <div align="center">
