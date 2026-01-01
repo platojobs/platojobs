@@ -71,8 +71,8 @@
 
 ### 📈 GitHub Insights & Activity
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=platojobs&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=platojobs&show_icons=true&theme=tokyonight&hide_border=true" />
+![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=platojobs&show_icons=true&theme=transparent)
+[![PlatoJobs' Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs&&langs_count=10&layout=compact)](https://github.com/platojobs)
 </p>
 
 ---
