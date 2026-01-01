@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Polyglot%20Developer%20🛠️&fontSize=60&animation=fadeIn&fontAlignY=35" />
   
   <!-- 动态文字 -->
-  <h2 align="center">🚀 多语言全栈开发者 | 从系统底层到移动应用</h2>
+  <h2 align="center">🚀 Full-Stack Polyglot | System-Level Depth & Mobile-First Excellence</h2>
   
   <!-- 多语言技能标签 -->
   <div align="center">
@@ -20,62 +20,81 @@
 </div>
 
 <!-- 关于我 -->
-## 📖 About Me
-🚀 Senior iOS & Cross-Platform Developer
-一位深耕移动端开发 10 年+ 的技术专家，擅长 iOS 原生（Swift/Obj-C） 与 Flutter 跨平台 开发。具备高并发直播、复杂 IoT 智能家居及大规模组件化架构实战经验。
 
-🛠 技术工具箱 (Technical Stack)
-📱 Mobile Development
-Languages: Swift, Objective-C, Dart (Flutter), C, JavaScript, Python
+# 🚀 Senior iOS & Cross-Platform Solutions Architect
 
-UI Frameworks: SwiftUI, AutoLayout (Masonry/SnapKit/SDAutoLayout), UIKit (Xib/Storyboard), Custom Widgets (Flutter)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=10%2B%20Years%20of%20Mobile%20Excellence&fontSize=40&animation=fadeIn" />
+</p>
 
-State Management: Provider, Bloc, GetX, RxSwift, Combine
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Development+Pioneer;IoT+Specialist:+BLE+Mesh+%26+Smart+Ecosystems;Multimedia+Architect:+FFmpeg+%26+Low-latency+Live;Performance+Master:+LLDB%2C+Assembly+%26+Instruments" alt="Typing SVG" />
+</p>
 
-🏗 Architecture & Engineering
-Architecture: 组件化 (CTMediator)、路由管理、MVVM、Design Patterns、SDK 封装、中台化建设
+---
 
-Performance: Instruments (Time Profiler/Leaks/Zombies), LLDB, View Debugging, 汇编调试, 启动优化, 内存管理 (Runtime/RunLoop)
+### 🛠 Technical Ecosystem
 
-Tools: Git (Tower Workflow), CocoaPods (Public/Private Repo), CI/CD, Postman, Charles/Proxyman
+#### 📱 Mobile Engineering
+* **Languages:** `Swift`, `Objective-C`, `Dart`, `C/C++`, `Python`, `JavaScript`
+* **iOS Core:** Deep understanding of `Runtime`, `RunLoop`, `Method Swizzling`, and `ARC`. Proficient in complex memory management and multi-threading.
+* **Modern UI:** `SwiftUI`, `Combine`, `SnapKit`, `Masonry`, and `Flutter Custom Painting`.
+* **Architecture:** Expert in **Componentization (CTMediator)**, **MVVM**, and **Clean Architecture**.
 
-📹 Media & Communication
-Live/Video: FFmpeg, ijkPlayer, GPUImage, LFLiveKit, AVFoundation, RTSP Streaming
+#### 🎥 Multimedia & Communication
+* **Live Streaming:** Comprehensive experience with `FFmpeg`, `ijkPlayer`, `GPUImage`, and `LFLiveKit`. Optimized push/pull streams for high-concurrency environments.
+* **Networking:** `TCP/UDP`, `WebSocket` heartbeat protocols, `Moya/Alamofire` encapsulation, and `HappyDNS` for anti-hijacking solutions.
+* **IM & Social:** Integration of `RongCloud`, `EaseMob`, and `Netease IM` with custom UI/UX extensions.
 
-Network: TCP/UDP, HTTP/HTTPS, WebSocket, Alamofire, Moya, Dio, HappyDNS (Anti-Hijack)
+#### 🏠 IoT & Connectivity
+* **Protocols:** `CoreBluetooth`, `flutter_blue_plus`, and `Bluetooth Mesh`.
+* **Hardware Interaction:** End-to-end development for Smart Home devices (Lighting, Sensors, Locks).
+* **Collaboration:** Defining custom communication protocols and debugging with embedded firmware engineers.
 
-IM & Social: 环信/融云/网易云信 (IM SDK), OAuth 2.0 (SSO), Apple IAP (StoreKit)
+---
 
-🏠 IoT & Hardwares
-Protocols: BLE 4.0/5.0 (CoreBluetooth / FlutterBluePlus), Bluetooth Mesh, Custom Hardware Protocols
+### 🏗 Engineering & DevOps Excellence
 
-Integration: 智能家居全链路联调, 硬件指令解析, 嵌入式协同开发
+* **Performance Tuning:** * **Fluidity:** Achieved **60 FPS** scrolling via asynchronous rendering and advanced cell reuse.
+    * **Stability:** Maintained a **0.02% crash rate** using `Bugly`, `Instruments`, and `Analyze`.
+    * **Startup:** Optimized launch sequences through binary reordering and static library management.
+* **Package Management:** Expert in `CocoaPods` (Public/Private Specs) and `Swift Package Manager`.
+* **Tooling:** Proficient in `Git` (Tower workflow), `Postman`, `Charles`, and `Paw` for API debugging.
+* **Modern Workflow:** Leveraging **AI-assisted tools** for rapid feature iteration and CI/CD pipelines for App Store/TestFlight distribution.
 
-📈 核心能力概览 (Core Competencies)
-💎 专业亮点
-高并发社交/直播经验： 曾主导日活 10万+ 级别的社交直播应用架构，解决过极致的音视频延迟与并发瓶颈。
+---
 
-跨平台深度实践： 具备 3年+ Flutter 实战经验，实现过完整的 Flutter 混合开发架构及从 0 到 1 的 CRM/POS 系统。
+### 📊 Professional Milestones
 
-IoT 领域深耕： 精通蓝牙 Mesh 协议，有丰富的智能灯具、开关、门锁等硬件交互开发经验。
+| Domain | Achievement Highlights |
+| :--- | :--- |
+| **Social / Live** | Scaled a major social platform to **100K+ DAU**; optimized video matching latency. |
+| **IoT / Smart Home** | Built a multi-platform Smart Home ecosystem using Flutter, supporting complex Mesh networking. |
+| **SaaS / Enterprise** | Developed modularized SaaS solutions for Smart Communities, supporting rapid white-label deployment. |
+| **FinTech / CRM** | Architected a full-stack POS/CRM system from scratch using **Flutter + Provider + Dio**. |
 
-底层探索精神： 熟练运用 Runtime、Method Swizzling、汇编本质探索 等技术进行黑盒调试及功能扩展。
+---
 
-支付与安全： 深度掌握 Apple IAP 内购 补单机制及服务器校验流程，确保交易安全。
+### 📈 GitHub Insights & Activity
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-📊 开源贡献与生产力 (Open Source & Productivity)
-AI-Driven Development: 熟练使用 AI 辅助工具（Cursor, Copilot）进行逻辑加速与代码重构。
+---
 
-Private/Public Pods: 维护多个企业级私有库，实现业务组件的高度解耦。
+### 📬 Get In Touch
+<p align="left">
+  <a href="mailto:platojobs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[platojobs](https://x.com/platojobs)">
+    <img src="https://x.com/platojobs?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
-Automation: 熟悉多渠道分发（TestFlight, Enterprise App Store）及马甲包制作流程。
-
-💬 联系我 (Get in Touch)
-GitHub: [Your GitHub Profile Link]
-
-Focus: iOS Architecture, Flutter Performance, High-Performance Networking
-
-"追求代码的极致优雅与运行的高效稳定。"
+---
+<p align="right"><i>"Driven by logic, inspired by design."</i></p>
 
 
  <p>✍️&nbsp;&nbsp;Software engineer，c/c++/python/shell/oc/swift/flutter/kotlin/golang and so on. Team developer，Help others, be yourself. Skater Boy!</p> 
