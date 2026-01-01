@@ -53,22 +53,26 @@
 * **Tooling:** Proficient in `Git` (Tower workflow), `Postman`, `Charles`, and `Paw` for API debugging.
 * **Modern Workflow:** Leveraging **AI-assisted tools** for rapid feature iteration and CI/CD pipelines for App Store/TestFlight distribution.
 
-### 🔧 Deep Tech Stack
-| Domain | Technologies |
-| :--- | :--- |
-| **System & Kernel** | `Runtime`, `RunLoop`, `Method Swizzling`, `Mach-O`, `Assembly (ARM64)` |
-| **Performance** | `Instruments`, `Memory Leak Sanitizer`, `Time Profiler`, `Startup Optimization` |
-| **Multimedia** | `FFmpeg`, `RTMP/HLS`, `Metal/GPUImage`, `ijkPlayer`, `AVFoundation` |
-| **IoT / Connectivity** | `BLE Mesh`, `Custom Bluetooth Protocols`, `WebSocket`, `TCP/UDP` |
+### 🏆 Career Highlights & Engineering Impact
 
-### 📊 Professional Milestones
-
-| Domain | Achievement Highlights |
+| Area | Achievement |
 | :--- | :--- |
-| **Social / Live** | Scaled a major social platform to **100K+ DAU**; optimized video matching latency. |
-| **IoT / Smart Home** | Built a multi-platform Smart Home ecosystem using Flutter, supporting complex Mesh networking. |
-| **SaaS / Enterprise** | Developed modularized SaaS solutions for Smart Communities, supporting rapid white-label deployment. |
-| **FinTech / CRM** | Architected a full-stack POS/CRM system from scratch using **Flutter + Provider + Dio**. |
+| **🚀 High-Concurrency** | Architected a Social/Live platform for **100K+ DAU**, optimizing video matching & real-time ranking systems. |
+| **🏗 Architecture** | Implemented **Modular/Componentized (CTMediator)** routing, supporting rapid deployment for 10+ white-label SaaS clients. |
+| **⚡ Performance** | Achieved a stable **0.02% crash rate** and optimized cold-start time by 30% through binary reordering & memory tuning. |
+| **📱 Cross-Platform** | 3+ years of **Flutter Hybrid** leadership, developing complex CRM & IoT systems with high-performance custom widgets. |
+| **🔗 IoT / Bluetooth** | Integrated **BLE Mesh** protocols for smart home ecosystems, enabling seamless control of 50+ device types. |
+
+
+### 🔧 Deep Technical Expertise
+
+> [!TIP]
+> **Advanced Debugging:** Proficient in **LLDB, Assembly (ARM64)**, and **Instruments** for solving extreme memory leaks and performance bottlenecks.
+
+- **System Internals:** Master of **Runtime & RunLoop** mechanisms, often utilizing **Method Swizzling** for non-intrusive monitoring and analytics.
+- **Multimedia:** Hands-on experience with **FFmpeg, ijkPlayer, and GPUImage** for low-latency push/pull stream processing.
+- **Security & Payment:** Expert in **Apple IAP (StoreKit)** integration with robust server-side verification and receipt-safe mechanisms.
+- **CI/CD:** Streamlined development via automated **fastlane** workflows and Private CocoaPods repo management.
 
 ### 📈 GitHub Insights & Activity
 
