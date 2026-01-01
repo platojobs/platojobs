@@ -43,7 +43,6 @@
 * **Hardware Interaction:** End-to-end development for Smart Home devices (Lighting, Sensors, Locks).
 * **Collaboration:** Defining custom communication protocols and debugging with embedded firmware engineers.
 
----
 
 ### 🏗 Engineering & DevOps Excellence
 
@@ -54,7 +53,6 @@
 * **Tooling:** Proficient in `Git` (Tower workflow), `Postman`, `Charles`, and `Paw` for API debugging.
 * **Modern Workflow:** Leveraging **AI-assisted tools** for rapid feature iteration and CI/CD pipelines for App Store/TestFlight distribution.
 
----
 
 ### 📊 Professional Milestones
 
@@ -65,24 +63,17 @@
 | **SaaS / Enterprise** | Developed modularized SaaS solutions for Smart Communities, supporting rapid white-label deployment. |
 | **FinTech / CRM** | Architected a full-stack POS/CRM system from scratch using **Flutter + Provider + Dio**. |
 
----
-
 ### 📈 GitHub Insights & Activity
 
 ![PlatoJobs' GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=platojobs&show_icons=true&theme=transparent)
 [![PlatoJobs' Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=platojobs&&langs_count=10&layout=compact)](https://github.com/platojobs)
 
----
-
-### 📬 Get In Touch
-<p align="left">
-  <a href="mailto:platojobs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <div align="center">
 
 ### 🌐 Connect with Me
 
+<a href="mailto:platojobs@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-121011?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 <a href="https://platojobs.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Website-121011?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
@@ -105,11 +96,6 @@
   <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" />
 </a>
 
-</div>
-  
-</p>
-
----
 <p align="right"><i>"Driven by logic, inspired by design."</i></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&color=050001&lines=Actions+speak+louder+than+words.)](https://git.io/typing-svg)
