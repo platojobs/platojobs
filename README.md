@@ -106,3 +106,8 @@
 <p align="right"><i>"Driven by logic, inspired by design."</i></p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&color=050001&lines=Actions+speak+louder+than+words.)](https://git.io/typing-svg)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=platojobs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=platojobs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
