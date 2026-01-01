@@ -23,9 +23,6 @@
 
 <!-- 关于我 -->
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a48a355-8f49-4125-9d45-d944e4c45e0c" />
-
-
 # 🚀 Senior iOS & Cross-Platform Solutions Architect
 
 ### 🛠 Technical Ecosystem
