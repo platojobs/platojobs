@@ -1,5 +1,12 @@
 <!-- 头部横幅 -->
 <div align="center">
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=10%2B%20Years%20Experience&fontSize=50&animation=fadeIn" /> </p>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Expert+in+iOS+Native+%26+Flutter+Hybrid;IoT+Specialist:+BLE+Mesh+%26+Custom+Protocols;Multimedia+Pro:+FFmpeg+%26+Low-latency+Live;Performance+Tuning:+LLDB%2C+Assembly+%26+Instruments" alt="Typing SVG" /> </p>
+
+
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Polyglot%20Developer%20🛠️&fontSize=60&animation=fadeIn&fontAlignY=35" />
   
   <!-- 动态文字 -->
@@ -25,7 +32,6 @@
 <!-- 关于我 -->
 
 # 🚀 Senior iOS & Cross-Platform Solutions Architect
----
 
 ### 🛠 Technical Ecosystem
 
