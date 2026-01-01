@@ -4,7 +4,9 @@
   
   <!-- 动态文字 -->
   <h2 align="center">🚀 Full-Stack Polyglot | System-Level Depth & Mobile-First Excellence</h2>
-  
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Development+Pioneer;IoT+Specialist:+BLE+Mesh+%26+Smart+Ecosystems;Multimedia+Architect:+FFmpeg+%26+Low-latency+Live;Performance+Master:+LLDB%2C+Assembly+%26+Instruments" alt="Typing SVG" />
+</p>
   <!-- 多语言技能标签 -->
   <div align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
@@ -22,15 +24,6 @@
 <!-- 关于我 -->
 
 # 🚀 Senior iOS & Cross-Platform Solutions Architect
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=200&section=header&text=10%2B%20Years%20of%20Mobile%20Excellence&fontSize=40&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Development+Pioneer;IoT+Specialist:+BLE+Mesh+%26+Smart+Ecosystems;Multimedia+Architect:+FFmpeg+%26+Low-latency+Live;Performance+Master:+LLDB%2C+Assembly+%26+Instruments" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🛠 Technical Ecosystem
