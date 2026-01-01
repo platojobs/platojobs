@@ -79,9 +79,9 @@
   <a href="mailto:platojobs@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[platojobs](https://x.com/platojobs)">
-    <img src="https://x.com/platojobs?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+  <a href="https://x.com/platojobs" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+</a>
 </p>
 
 ---
