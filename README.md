@@ -82,6 +82,32 @@
   <a href="https://x.com/platojobs" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
+  <p align="left">
+  <a href="https://platojobs.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-121011?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>&emsp;
+  <a href="https://twitter.com/PlatoJobs/" target="_blank">
+    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>&emsp;
+  <a href="https://facebook.com/PlatoJobs/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&emsp;
+  <a href="https://youtube.com/@PlatoJobs" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://blog.csdn.net/你的ID" target="_blank">
+    <img src="https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white" />
+  </a>&emsp;
+  <a href="https://space.bilibili.com/你的ID" target="_blank">
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>&emsp;
+  <a href="https://www.zhihu.com/people/你的ID" target="_blank">
+    <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" />
+  </a>
+</p>
 </p>
 
 ---
