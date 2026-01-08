@@ -28,7 +28,7 @@
 ### 🛠 Technical Ecosystem
 
 #### 📱 Mobile Engineering
-* **Languages:** `Swift`, `Objective-C`, `Dart`, `C/C++`, `Python`, `JavaScript`
+* **Languages:** `Swift`, `Objective-C`,`Kotlin`,`Go`, `Dart`, `C/C++`, `Python`, `JavaScript`
 * **iOS Core:** Deep understanding of `Runtime`, `RunLoop`, `Method Swizzling`, and `ARC`. Proficient in complex memory management and multi-threading.
 * **Modern UI:** `SwiftUI`, `Combine`, `SnapKit`, `Masonry`, and `Flutter Custom Painting`.
 * **Architecture:** Expert in **Componentization (CTMediator)**, **MVVM**, and **Clean Architecture**.
