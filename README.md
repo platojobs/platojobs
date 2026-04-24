@@ -60,7 +60,7 @@
 | **🚀 High-Concurrency** | Architected a Social/Live platform for **100K+ DAU**, optimizing video matching & real-time ranking systems. |
 | **🏗 Architecture** | Implemented **Modular/Componentized (CTMediator)** routing, supporting rapid deployment for 10+ white-label SaaS clients. |
 | **⚡ Performance** | Achieved a stable **0.02% crash rate** and optimized cold-start time by 30% through binary reordering & memory tuning. |
-| **📱 Cross-Platform** | 3+ years of **Flutter Hybrid** leadership, developing complex CRM & IoT systems with high-performance custom widgets. |
+| **📱 Cross-Platform** | 4+ years of **Flutter Hybrid** leadership, developing complex CRM & IoT systems with high-performance custom widgets. |
 | **🔗 IoT / Bluetooth** | Integrated **BLE Mesh** protocols for smart home ecosystems, enabling seamless control of 50+ device types. |
 
 
