@@ -1,31 +1,31 @@
-<!-- 📦 新代码库迁移通知 - 顶部显眼位置 -->
+<!-- 📦 Repository Migration Notice - Prominent Top Position -->
 <div align="center">
   
-## 🚨 重要通知 | IMPORTANT NOTICE 🚨
+## 🚨 IMPORTANT NOTICE 🚨
 
-### 📦 **所有新代码和未来开发工作已迁移** | All new code has moved
+### 📦 **All New Code and Future Development Have Migrated**
 
-## ⭐ **请访问: [@flutterffi](https://github.com/flutterffi)** ⭐
+## ⭐ **Visit: [@flutterffi](https://github.com/flutterffi)** ⭐
 
 ### 🔗 New Repository Location: **[@flutterffi](https://github.com/flutterffi)**
 
 ---
 
-**📧 联系方式 | Contact:** [platojobs@gmail.com](mailto:platojobs@gmail.com)
+**📧 Contact:** [platojobs@gmail.com](mailto:platojobs@gmail.com)
 
 ---
 
 </div>
 
-<!-- 头部横幅 -->
+<!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Polyglot%20Developer%20🛠️&fontSize=60&animation=fadeIn&fontAlignY=35" />
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2400C&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Development;Cross-Platform+Architecture;IoT+%26+Bluetooth+Mesh;High+Performance+Systems" />
 </p>
-  <!-- 动态文字 -->
+  <!-- Dynamic Text -->
   <h2 align="center">🚀 Full-Stack Polyglot | System-Level Depth & Mobile-First Excellence</h2>
-  <!-- 多语言技能标签 -->
+  <!-- Multi-Language Skills Tags -->
   <div align="center">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -40,8 +40,6 @@
   </div>
 </div>
 
-<!-- 关于我 -->
-
 # 🚀 Senior iOS & Cross-Platform Solutions Architect
 
 > ⚡ **About This Repository:** This account (`platojobs`) is now dedicated to **blog system and knowledge sharing**. All new code repositories and future development will be published to the **[@flutterffi](https://github.com/flutterffi)** organization.
@@ -49,7 +47,7 @@
 ### 🛠 Technical Ecosystem
 
 #### 📱 Mobile Engineering
-* **Languages:** `Swift`, `Objective-C`,`Kotlin`,`Go`, `Dart`, `C/C++`, `Python`, `JavaScript`
+* **Languages:** `Swift`, `Objective-C`, `Kotlin`, `Go`, `Dart`, `C/C++`, `Python`, `JavaScript`
 * **iOS Core:** Deep understanding of `Runtime`, `RunLoop`, `Method Swizzling`, and `ARC`. Proficient in complex memory management and multi-threading.
 * **Modern UI:** `SwiftUI`, `Combine`, `SnapKit`, `Masonry`, and `Flutter Custom Painting`.
 * **Architecture:** Expert in **Componentization (CTMediator)**, **MVVM**, and **Clean Architecture**.
