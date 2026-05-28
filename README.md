@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Polyglot%20Developer%20🛠️&fontSize=60&animation=fadeIn&fontAlignY=35" />
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2400C&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Development+Pioneer;IoT+Specialist:+BLE+Mesh+%26+Smart+Ecosystems;Multimedia+Architect:+FFmpeg+%26+Low-latency+Live;Performance+Master:+LLDB%2C+Assembly+%26+Instruments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2400C&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Deve[...]
 </p>
   <!-- 动态文字 -->
   <h2 align="center">🚀 Full-Stack Polyglot | System-Level Depth & Mobile-First Excellence</h2>
@@ -24,6 +24,8 @@
 <!-- 关于我 -->
 
 # 🚀 Senior iOS & Cross-Platform Solutions Architect
+
+> ⚡ **Important Notice:** This account (`platojobs`) is now dedicated to **blog system and knowledge sharing**. All new code repositories and future development will be published to the **[@flutterffi](https://github.com/flutterffi)** account. Current open-source libraries will continue to be maintained here.
 
 ### 🛠 Technical Ecosystem
 
@@ -106,6 +108,10 @@
 <a href="https://www.zhihu.com/people/your_id" target="_blank">
   <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" />
 </a>
+
+### 📦 New Code Repository
+
+For all new code and future development, please visit: **[@flutterffi](https://github.com/flutterffi)**
 
 <p align="right"><i>"Driven by logic, inspired by design."</i></p>
 
