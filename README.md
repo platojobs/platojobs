@@ -1,8 +1,27 @@
+<!-- 📦 新代码库迁移通知 - 顶部显眼位置 -->
+<div align="center">
+  
+## 🚨 重要通知 | IMPORTANT NOTICE 🚨
+
+### 📦 **所有新代码和未来开发工作已迁移** | All new code has moved
+
+## ⭐ **请访问: [@flutterffi](https://github.com/flutterffi)** ⭐
+
+### 🔗 New Repository Location: **[@flutterffi](https://github.com/flutterffi)**
+
+---
+
+**📧 联系方式 | Contact:** [platojobs@gmail.com](mailto:platojobs@gmail.com)
+
+---
+
+</div>
+
 <!-- 头部横幅 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Polyglot%20Developer%20🛠️&fontSize=60&animation=fadeIn&fontAlignY=35" />
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2400C&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Deve[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF2400C&center=true&vCenter=true&width=750&lines=Expert+in+iOS+Native+(Swift+%2F+Obj-C);Flutter+Hybrid+Development;Cross-Platform+Architecture;IoT+%26+Bluetooth+Mesh;High+Performance+Systems" />
 </p>
   <!-- 动态文字 -->
   <h2 align="center">🚀 Full-Stack Polyglot | System-Level Depth & Mobile-First Excellence</h2>
@@ -25,7 +44,7 @@
 
 # 🚀 Senior iOS & Cross-Platform Solutions Architect
 
-> ⚡ **Important Notice:** This account (`platojobs`) is now dedicated to **blog system and knowledge sharing**. All new code repositories and future development will be published to the **[@flutterffi](https://github.com/flutterffi)** account. Current open-source libraries will continue to be maintained here.
+> ⚡ **About This Repository:** This account (`platojobs`) is now dedicated to **blog system and knowledge sharing**. All new code repositories and future development will be published to the **[@flutterffi](https://github.com/flutterffi)** organization.
 
 ### 🛠 Technical Ecosystem
 
@@ -48,7 +67,8 @@
 
 ### 🏗 Engineering & DevOps Excellence
 
-* **Performance Tuning:** * **Fluidity:** Achieved **60 FPS** scrolling via asynchronous rendering and advanced cell reuse.
+* **Performance Tuning:** 
+    * **Fluidity:** Achieved **60 FPS** scrolling via asynchronous rendering and advanced cell reuse.
     * **Stability:** Maintained a **0.02% crash rate** using `Bugly`, `Instruments`, and `Analyze`.
     * **Startup:** Optimized launch sequences through binary reordering and static library management.
 * **Package Management:** Expert in `CocoaPods` (Public/Private Specs) and `Swift Package Manager`.
@@ -108,10 +128,6 @@
 <a href="https://www.zhihu.com/people/your_id" target="_blank">
   <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" />
 </a>
-
-### 📦 New Code Repository
-
-For all new code and future development, please visit: **[@flutterffi](https://github.com/flutterffi)**
 
 <p align="right"><i>"Driven by logic, inspired by design."</i></p>
 
